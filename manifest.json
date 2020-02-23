@@ -2,7 +2,6 @@
     "name": "Gabriel WPA",
     "short_name": "Gabriel WPA",
     "description": "Bienvenid@s a mi web progresiva",
-    //"background_color": "#2B2B2B",
     "background_color": "green",
     "theme_color": "#F0DB4F",
     "orientation": "portrait",
